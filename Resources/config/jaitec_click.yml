@@ -1,0 +1,9 @@
+services:
+    jaitec_click_request_listener:
+        class: Jaitec\ClickBundle\Listener\JaitecClickListener
+        arguments:
+            router: @router
+            container: @service_container
+            routes: %jaitec_click.routes%
+        tags:
+            - { name: kernel.event_listener, event: kernel.request, method: onKernelRequest }
