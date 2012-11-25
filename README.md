@@ -1,3 +1,61 @@
+JaitecClickBundle
+=================
+
+- This bundle provides a simply way to control times a page of our project is visited
+
+
+Installation
+============
+
+Add JaitecClickBundle to your vendor/bundles/ dir
+------------------------------------------
+
+::
+
+    $ git submodule add https://bitbucket.org/jlaso/jaitecclickbundle.git vendor/bundles/Jaitec/ClickBundle
+
+or add this to deps
+
+    [JaitecClickBundle]    
+        git=https://bitbucket.org/jlaso/jaitecclickbundle.git
+        target=/bundles/Jaitec/ClickBundle
+
+
+and run 
+
+    $ php bin/vendors update
+
+Add the Jaitec namespace to your autoloader
+-------------------------------------------
+
+::
+
+    // app/autoload.php
+    $loader->registerNamespaces(array(
+        'Jaitec' => __DIR__.'/../vendor/bundles',
+        // your other namespaces
+    );
+
+Add JaitecClickBundle to your application kernel
+------------------------------------------
+
+::
+
+    // app/AppKernel.php
+
+    public function registerBundles()
+    {
+        return array(
+            // ...
+            new Jaitec\ClickBundle\JaitecClickBundle(),
+            // ...
+        );
+    }
+
+
+
+Usage Sample
+==========
 ::
 
     configuration sample
