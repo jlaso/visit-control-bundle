@@ -83,5 +83,9 @@ Usage Sample
 
 
 
-More info in spanish <a href="http://jaitec.net/blog/control-simple-de-las-paginas-visitadas-en-tu-sitio-symfony2/">
-here</a>
+More info in my spanish site
+
+- [jaitec.net][1]
+
+
+[1]: http://jaitec.net/blog/control-simple-de-las-paginas-visitadas-en-tu-sitio-symfony2/
