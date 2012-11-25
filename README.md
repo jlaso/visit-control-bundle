@@ -80,3 +80,8 @@ Usage Sample
                 # the route not contains any info because is a fixed route
                 entity_id: 1
                 entity_name: ~
+
+
+
+More info in spanish <a href="http://jaitec.net/blog/control-simple-de-las-paginas-visitadas-en-tu-sitio-symfony2/">
+here</a>
