@@ -1,9 +1,9 @@
 {
-    "name": "jlaso/JaitecClickBundle",
+    "name": "jlaso/visit-control-bundle",
     "version": "1.0.0",
-    "description": "Visit control for Symfony projects",
+    "description": "Visit control for Symfony2 projects",
     "keywords": ["jaitec", "visits"],
-    "homepage": "https://github.com/jlaso/JaitecClickBundle",
+    "homepage": "https://github.com/jlaso/visit-control-bundle",
     "type": "bundle",
     "license": "mit",
     "authors": [
@@ -17,8 +17,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": { "JLaso\\JaitecClickBundle": "" }
+        "psr-0": { "JLaso\\VisitControlBundle": "" }
     },
-    "target-dir": "JLaso\\JaitecClickBundle"
+    "target-dir": "JLaso\\VisitControlBundle"
 }
 
