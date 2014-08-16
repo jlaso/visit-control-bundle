@@ -1,3 +1,5 @@
+[![Latest Stable Version](https://poser.pugx.org/jlaso/visit-control-bundle/v/stable.svg)](https://packagist.org/packages/jlaso/visit-control-bundle) [![Total Downloads](https://poser.pugx.org/jlaso/visit-control-bundle/downloads.svg)](https://packagist.org/packages/jlaso/visit-control-bundle) [![Latest Unstable Version](https://poser.pugx.org/jlaso/visit-control-bundle/v/unstable.svg)](https://packagist.org/packages/jlaso/visit-control-bundle) [![License](https://poser.pugx.org/jlaso/visit-control-bundle/license.svg)](https://packagist.org/packages/jlaso/visit-control-bundle)
+
 JaitecClickBundle
 =================
 
