@@ -5,7 +5,7 @@
     "keywords": ["jaitec", "visits"],
     "homepage": "https://github.com/jlaso/visit-control-bundle",
     "type": "bundle",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joseluis Laso",
