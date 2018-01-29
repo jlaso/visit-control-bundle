@@ -87,7 +87,7 @@ Usage Sample
 
 More info in my spanish site
 
-- [jaitec.net][1]
+- [developer.joseluislaso.es][1]
 
 
-[1]: http://jaitec.net/blog/control-simple-de-las-paginas-visitadas-en-tu-sitio-symfony2/
+[1]: http://developer.joseluislaso.es/2012/11/control-simple-de-las-paginas-visitadas-en-tu-sitio-symfony2.html
